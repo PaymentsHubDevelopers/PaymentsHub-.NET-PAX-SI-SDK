@@ -1,0 +1,10 @@
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Release\French_Press_POS.exe.config
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Release\French_Press_POS.exe
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Release\French_Press_POS.pdb
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.csproj.AssemblyReference.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.Form1.resources
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.Properties.Resources.resources
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.csproj.GenerateResource.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.csproj.CoreCompileInputs.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.exe
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Release\French_Press_POS.pdb

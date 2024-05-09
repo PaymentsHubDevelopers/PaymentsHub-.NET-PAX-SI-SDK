@@ -1,0 +1,17 @@
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\French_Press_POS.exe.config
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\French_Press_POS.exe
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\French_Press_POS.pdb
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.csproj.AssemblyReference.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.Properties.Resources.resources
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.csproj.GenerateResource.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.csproj.CoreCompileInputs.cache
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.exe
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.pdb
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\FileHelpers.dll
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\FileHelpers.xml
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_P.9451826D.Up2Date
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\obj\Debug\French_Press_POS.Form2.resources
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\Newtonsoft.Json.dll
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\Newtonsoft.Json.xml
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\POSLink2.xml
+\\nabancard.com\userdata\FolderRedirection\lolson\Desktop\French_Press_POS\bin\Debug\POSLink.dll
