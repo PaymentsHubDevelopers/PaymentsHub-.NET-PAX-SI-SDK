@@ -3,7 +3,7 @@
 This is a C#/.NET Point of Sale application that demonstrates a Card Present payment integration with [Payments Hub's PAX Semi-Integrated SDK](https://developer.paymentshub.com/products/card-present/si-sdks/pax-si-sdk). The payment terminal communicates sensitive PCI transaction information directly to the payment processor, EPX, which keeps that data out of the merchant's and ISV's systems, reducing your PCI responsibility. The following diagram provides an overview of the data flow with this solution:
 <br><br><br>
 
-![Semi-Integration diagram](https://github.com/PaymentsHubDevelopers/PaymentsHub-.NET-PAX-SI-SDK/assets/136620102/c2035a36-c048-4121-a748-6777678919e4)
+![Semi-Integration diagram](https://github.com/PaymentsHubDevelopers/PaymentsHub-.NET-PAX-SI-SDK/assets/136620102/0325116f-421b-4a39-b5ce-684c36678a27)
 
 
 ## Get Started
